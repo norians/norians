@@ -3,8 +3,6 @@
 
 # 💫 About Me:
 - 💻 Backend Developer with over 2 years of experience specializing in .NET
-- 📚 Computational Mathematics student at International University of Valencia
-- 🚗 Passionate about Artificial Intelligence and its applications in autonomous driving
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/noriannamedina/) 

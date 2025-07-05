@@ -2,7 +2,7 @@
 ![alt text](https://github.com/norians/norians/blob/main/cabeceragithub.jpg?raw=true)
 
 # 💫 About Me:
-- 💻 Backend Developer with over 2 years of experience specializing in .NET
+- 💻 Backend Developer with 3 years of experience specializing in .NET
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noriannamedina/) 

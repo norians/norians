@@ -13,9 +13,6 @@
   - Automated **inter-company messaging workflows**, saving 60% processing time (~15 hours/week)
   - Analyzed and migrated **10,000+ production database records** with zero downtime
 
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noriannamedina/) 
-
 ## Tech Stack:
 **Backend & APIs**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
